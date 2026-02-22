@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://CarnabySnaps.github.io/travel-photography-switzerland/sitemap.xml
